@@ -1,0 +1,2 @@
+D:\ПТУ\Операционки\Lab\lab5\mailClient\mailClient\Debug\mailClient.exe
+D:\ПТУ\Операционки\Lab4\mailClient\mailClient\Debug\mailClient.exe
